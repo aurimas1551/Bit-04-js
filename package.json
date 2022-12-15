@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "shop":"nodemon ./tasks/shop.js",
     "kintamieji":"nodemon ./js/01-kintamieji.js",
     "ciklai":"nodemon ./js/02-ciklai.js",
     "funkcijos":"nodemon ./js/03-funkcijos.js", 
